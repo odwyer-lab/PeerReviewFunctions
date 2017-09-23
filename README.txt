@@ -1,4 +1,5 @@
 The file Script.r contains the functions necessary to run the peer review process described in D'Andrea and O'Dwyer 2017. 
+The file Data.txt contains all the data used in the paper. The data were generated using file Script.r.
 For all editorial strategies including none but excluding blacklisting, use PeerReview. 
 For blacklisting, use PeerReviewBlacklist.
 Functions Decision and Blacklist are called by PeerReview and PeerReviewBlacklist
